@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bruhjitp
 - 👀 I’m interested in anything that looks fun, not necesarily tech.
 - 🌱 I’m currently learning ... I guess, all that I can?
-- 💞️ I’m looking to collaborate on VLSI related projects- frontend, backend, device level, system level, all of that excites me a lot.
+- 💞️ I’m looking to collaborate on VLSI related projects- RTL, verification, validation, system level, all of that excites me a lot.
 - 📫 Reach out at: brajitpaul10.bp@gmail.com
 - 😄 Pronouns: he, cuz I'll never be him(clearly high on memes xD)
 - ⚡ Fun fact: Going out is more fun than tech, so lets connect and collaborate over good food!
